@@ -1241,6 +1241,41 @@
                         "https://cdn.imgchest.com/files/466edaf3a0df.png"
                   ]
             }
+      },
+          "40": {
+            "title": "Fine Drink",
+            "volume": "5",
+            "last_updated": "1777232171",
+            "groups": {
+                  "The Koi Pond": [
+                        "https://cdn.imgchest.com/files/81dd3f8b7dd4.png",
+                        "https://cdn.imgchest.com/files/532bb2d85a7d.png",
+                        "https://cdn.imgchest.com/files/231e782c803f.png",
+                        "https://cdn.imgchest.com/files/0e93978dd9d3.png",
+                        "https://cdn.imgchest.com/files/5fd88183386f.png",
+                        "https://cdn.imgchest.com/files/c546704cca95.png",
+                        "https://cdn.imgchest.com/files/187c818a6429.png",
+                        "https://cdn.imgchest.com/files/8f02635a4c35.png",
+                        "https://cdn.imgchest.com/files/f6b78966e24e.png",
+                        "https://cdn.imgchest.com/files/1522cae7268d.png",
+                        "https://cdn.imgchest.com/files/4df6f6beb768.png",
+                        "https://cdn.imgchest.com/files/17455d4d499b.png",
+                        "https://cdn.imgchest.com/files/866938e8c95a.png",
+                        "https://cdn.imgchest.com/files/4edb228376f6.png",
+                        "https://cdn.imgchest.com/files/3a24c2353a19.png",
+                        "https://cdn.imgchest.com/files/3b447b75a12a.png",
+                        "https://cdn.imgchest.com/files/f000842e4d58.png",
+                        "https://cdn.imgchest.com/files/b770fbb3b37b.png",
+                        "https://cdn.imgchest.com/files/3b22f696e353.png",
+                        "https://cdn.imgchest.com/files/552f19071d5e.png",
+                        "https://cdn.imgchest.com/files/0def02fb7913.png",
+                        "https://cdn.imgchest.com/files/0017ad07eacb.png",
+                        "https://cdn.imgchest.com/files/274646a7504b.png",
+                        "https://cdn.imgchest.com/files/e07393f9fe3a.png",
+                        "https://cdn.imgchest.com/files/565ec4d8b900.png",
+                        "https://cdn.imgchest.com/files/6b1e714e60e9.png"
+                  ]
+            }
       }
   }
 }
