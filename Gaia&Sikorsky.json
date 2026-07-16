@@ -567,63 +567,65 @@
         ]
       }
     },
-    "19": {
-      "title": "A Pure foe",
-      "volume": "3",
-      "last_updated": "1772841600",
-      "groups": {
-        "The Koi Pond": [
-          "https://cdn.imgchest.com/files/3be516fd2675.png",
-          "https://cdn.imgchest.com/files/be6b0a4224fe.png",
-          "https://cdn.imgchest.com/files/8d3c1ae52599.png",
-          "https://cdn.imgchest.com/files/31fc0035c997.png",
-          "https://cdn.imgchest.com/files/ead210491467.png",
-          "https://cdn.imgchest.com/files/089bec6924b0.png",
-          "https://cdn.imgchest.com/files/d9bce5b3b0e0.png",
-          "https://cdn.imgchest.com/files/225d324537d8.png",
-          "https://cdn.imgchest.com/files/caf3de7ea47f.png",
-          "https://cdn.imgchest.com/files/c40b25a7c0c5.png",
-          "https://cdn.imgchest.com/files/1190d6da8a60.png",
-          "https://cdn.imgchest.com/files/af94c2c11b8f.png",
-          "https://cdn.imgchest.com/files/f1b0dde5c2b5.png",
-          "https://cdn.imgchest.com/files/36e874845fe7.png",
-          "https://cdn.imgchest.com/files/31cada385858.png",
-          "https://cdn.imgchest.com/files/32a0f7e10eb3.png",
-          "https://cdn.imgchest.com/files/7148b29af77f.png",
-          "https://cdn.imgchest.com/files/2cccd021de2f.png",
-          "https://cdn.imgchest.com/files/a03a66779328.png",
-          "https://cdn.imgchest.com/files/00ca03fd1d22.png"
-        ]
-      }
-    },
-    "20": {
-      "title": "Fleeting Miracle",
-      "volume": "3",
-      "last_updated": "1772841600",
-      "groups": {
-        "The Koi Pond": [
-          "https://cdn.imgchest.com/files/ca43575e8a17.png",
-          "https://cdn.imgchest.com/files/ea1ef45ff1ea.png",
-          "https://cdn.imgchest.com/files/27638bfdf5e2.png",
-          "https://cdn.imgchest.com/files/dcb0fa610d4f.png",
-          "https://cdn.imgchest.com/files/790dfaf10dbf.png",
-          "https://cdn.imgchest.com/files/c44a882f2e21.png",
-          "https://cdn.imgchest.com/files/79e98f436fc5.png",
-          "https://cdn.imgchest.com/files/9effab9bfb77.png",
-          "https://cdn.imgchest.com/files/223ee29ab8a8.png",
-          "https://cdn.imgchest.com/files/d1825eadfa42.png",
-          "https://cdn.imgchest.com/files/d5019f8fabf5.png",
-          "https://cdn.imgchest.com/files/e02141ec53ca.png",
-          "https://cdn.imgchest.com/files/be8cc05d9b08.png",
-          "https://cdn.imgchest.com/files/28adf60a8757.png",
-          "https://cdn.imgchest.com/files/a32e8ca74521.png",
-          "https://cdn.imgchest.com/files/5897f691a4b3.png",
-          "https://cdn.imgchest.com/files/5e58dc427040.png",
-          "https://cdn.imgchest.com/files/68e0b6e8e49e.png",
-          "https://cdn.imgchest.com/files/c19f442c40f8.png"
-        ]
-      }
-    },
+      "19": {
+            "title": "A Pure Foe",
+            "volume": "3",
+            "last_updated": "1772841600",
+            "groups": {
+                  "Project Ryoko, TheSpinyBackTeam": [
+                        "https://cdn.imgchest.com/files/6637eb97ff35.png",
+                        "https://cdn.imgchest.com/files/81b2ebdb8981.png",
+                        "https://cdn.imgchest.com/files/c323476036e2.png",
+                        "https://cdn.imgchest.com/files/8bb5618676d0.png",
+                        "https://cdn.imgchest.com/files/cf29a1727a72.png",
+                        "https://cdn.imgchest.com/files/cf65c0913237.png",
+                        "https://cdn.imgchest.com/files/788d26684b3e.png",
+                        "https://cdn.imgchest.com/files/a9a3317c3f90.png",
+                        "https://cdn.imgchest.com/files/9ec3eba3f39e.png",
+                        "https://cdn.imgchest.com/files/cb3d6b59e9c8.png",
+                        "https://cdn.imgchest.com/files/49fc0ed4587b.png",
+                        "https://cdn.imgchest.com/files/7436d0d18d23.png",
+                        "https://cdn.imgchest.com/files/137a2af2a7b4.png",
+                        "https://cdn.imgchest.com/files/05b09d79ace3.png",
+                        "https://cdn.imgchest.com/files/75a2ba7326ce.png",
+                        "https://cdn.imgchest.com/files/99591d449f6f.png",
+                        "https://cdn.imgchest.com/files/d926fa5a6bd5.png",
+                        "https://cdn.imgchest.com/files/df3c1daad771.png",
+                        "https://cdn.imgchest.com/files/6f52300c120d.png",
+                        "https://cdn.imgchest.com/files/eb40c0ba6e83.png",
+                        "https://cdn.imgchest.com/files/018982d4a185.png"
+                  ]
+            }
+      },
+      "20": {
+            "title": "Fleeting Miracle",
+            "volume": "3",
+            "last_updated": "1772841600",
+            "groups": {
+                  "Project Ryoko, TheSpinyBackTeam": [
+                        "https://cdn.imgchest.com/files/d0412e1e139e.png",
+                        "https://cdn.imgchest.com/files/75c793e2a544.png",
+                        "https://cdn.imgchest.com/files/48852ef77d36.png",
+                        "https://cdn.imgchest.com/files/b8537db831fc.png",
+                        "https://cdn.imgchest.com/files/d325cd226def.png",
+                        "https://cdn.imgchest.com/files/f8689975c040.png",
+                        "https://cdn.imgchest.com/files/f6f9f6023578.png",
+                        "https://cdn.imgchest.com/files/1e32690b14a7.png",
+                        "https://cdn.imgchest.com/files/8bcaaaeda4d8.png",
+                        "https://cdn.imgchest.com/files/3854d291127f.png",
+                        "https://cdn.imgchest.com/files/e7227e898463.png",
+                        "https://cdn.imgchest.com/files/fe6eb0b2b23f.png",
+                        "https://cdn.imgchest.com/files/3de5c74b2d42.png",
+                        "https://cdn.imgchest.com/files/4db73c662787.png",
+                        "https://cdn.imgchest.com/files/d62ba31eceba.png",
+                        "https://cdn.imgchest.com/files/d17dacaab6c7.png",
+                        "https://cdn.imgchest.com/files/2ccc521e1974.png",
+                        "https://cdn.imgchest.com/files/28954a524f93.png",
+                        "https://cdn.imgchest.com/files/88cad5736fbf.png",
+                        "https://cdn.imgchest.com/files/a3a66b1879d6.png"
+                  ]
+            }
+      },
     "21": {
       "title": "Leader's Trauma",
       "volume": "3",
