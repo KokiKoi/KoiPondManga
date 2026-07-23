@@ -1,0 +1,121 @@
+{
+  "title": "The Sweet Sixty Princess",
+  "description": "The story is set in a share house inhabited by six men approaching their 60s. In this 'utopia' filled with men who have seemingly given up on their current lives, an unimaginable development is about to unfold.",
+  "artist": "Oku Hiroya",
+  "author": "Oku Hiroya",
+  "cover": "https://cdn.imgchest.com/files/9b5ae0baee9b.jpg",
+  "chapters": {
+    "1": {
+      "title": "Shared House",
+      "volume": "1",
+      "last_updated": "1766793600",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/9ryd9wd5d7k"
+      }
+    },
+    "2": {
+      "title": "Roulette",
+      "volume": "1",
+      "last_updated": "1767830400",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/qb4z2zb9g4j"
+      }
+    },
+    "3": {
+      "title": "Paranoia",
+      "volume": "1",
+      "last_updated": "1769212800",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/xny8ndwzpyb"
+      }
+    },
+    "4": {
+      "title": "Hair Removal",
+      "volume": "1",
+      "last_updated": "1770854400",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/o24a9rlggyl"
+      }
+    },
+    "5": {
+      "title": "Nothing",
+      "volume": "1",
+      "last_updated": "1772150400",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/9p4no9a2w7n"
+      }
+    },
+    "6": {
+      "title": "The Most Beautiful Woman in the World",
+      "volume": "1",
+      "last_updated": "1773360000",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/md7opnklayp"
+      }
+    },
+    "7": {
+      "title": "First Time",
+      "volume": "1",
+      "last_updated": "1774569600",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/9ryd9wdzd7k"
+      }
+    },
+    "8": {
+      "title": "Lingering Feelings",
+      "volume": "1",
+      "last_updated": "1775692800",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/ej7mpx5nq7d"
+      }
+    },
+    "9": {
+      "title": "Straight Off the Page",
+      "volume": "",
+      "last_updated": "1776902400",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/qe4g9g3loyj"
+      }
+    },
+    "10": {
+      "title": "Hit On",
+      "volume": "",
+      "last_updated": "1778112000",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/bp45vlrdxy5"
+      }
+    },
+    "11": {
+      "title": "Walking Home at Night",
+      "volume": "",
+      "last_updated": "1779321600",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/lqyekerpxyd"
+      }
+    },
+    "12": {
+      "title": "Meeting",
+      "volume": "",
+      "last_updated": "1781136000",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/qb4z2zbkg4j"
+      }
+    },
+    "13": {
+      "title": "Determination",
+      "volume": "",
+      "last_updated": "1782345600",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/o24a9rlvgyl"
+      }
+    },
+    "14": {
+      "title": "War",
+      "volume": "",
+      "last_updated": "1783728000",
+      "groups": {
+        "Morgan, TheSpinyBackTeam": "/proxy/api/imgchest/chapter/md7opnkxayp"
+      }
+    }
+  }
+}
