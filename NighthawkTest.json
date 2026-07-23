@@ -140,6 +140,14 @@
       "groups": {
         "Morgan": "/proxy/api/imgchest/chapter/lqyeke5wqyd"
       }
+          },
+    "16.5": {
+      "title": "Volume 2 Bonus",
+      "volume": "2",
+      "last_updated": "1782086400",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/pg73anxxgyr"
+      }
     },
     "17": {
       "title": "Claws",
@@ -219,15 +227,7 @@
       "last_updated": "1784678400",
       "groups": {
         "Morgan": "/proxy/api/imgchest/chapter/ej7mpxq597d"
-      }
-    },
-    "16.5": {
-      "title": "Volume 2 Bonus",
-      "volume": "",
-      "last_updated": "1784836147",
-      "groups": {
-        "Morgan": "/proxy/api/imgchest/chapter/pg73anxxgyr"
-      }
+      },
     }
   }
 }
