@@ -62,7 +62,7 @@
       }
     },
     "7.5": {
-      "title": "Bonus",
+      "title": "Volume 1 Bonus",
       "volume": "1",
       "last_updated": "1774137600",
       "groups": {
@@ -219,6 +219,14 @@
       "last_updated": "1784678400",
       "groups": {
         "Morgan": "/proxy/api/imgchest/chapter/ej7mpxq597d"
+      }
+    },
+    "16.5": {
+      "title": "Volume 2 Bonus",
+      "volume": "",
+      "last_updated": "1784836147",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/pg73anxxgyr"
       }
     }
   }
