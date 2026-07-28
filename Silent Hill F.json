@@ -49,62 +49,70 @@
         ]
       }
     },
-          "1.2": {
-            "title": "Chapter 1.2",
-            "volume": "",
-            "last_updated": "1778861930",
-            "groups": {
-                  "The Koi Pond & Creeg Scans": [
-                        "https://cdn.imgchest.com/files/594f831e5c24.png",
-                        "https://cdn.imgchest.com/files/be744dd7a1dd.png",
-                        "https://cdn.imgchest.com/files/5227b39a169f.png",
-                        "https://cdn.imgchest.com/files/205678f5f89d.png",
-                        "https://cdn.imgchest.com/files/5dbe671d4d6e.png",
-                        "https://cdn.imgchest.com/files/58a9d1702e54.png",
-                        "https://cdn.imgchest.com/files/dff61c13f4e4.png",
-                        "https://cdn.imgchest.com/files/77d780c9ea73.png",
-                        "https://cdn.imgchest.com/files/e18de4395482.png",
-                        "https://cdn.imgchest.com/files/20def9d0a677.png",
-                        "https://cdn.imgchest.com/files/ec0be967a17d.png",
-                        "https://cdn.imgchest.com/files/fbb7c2fc46b8.png",
-                        "https://cdn.imgchest.com/files/b2c072229c82.png",
-                        "https://cdn.imgchest.com/files/4524bd8cda30.png",
-                        "https://cdn.imgchest.com/files/eedaae79555e.png",
-                        "https://cdn.imgchest.com/files/f2cf96e05328.png",
-                        "https://cdn.imgchest.com/files/dd4866337c84.png",
-                        "https://cdn.imgchest.com/files/87d9f97b02a3.png",
-                        "https://cdn.imgchest.com/files/b6de26ec6ed0.png",
-                        "https://cdn.imgchest.com/files/f543e8c428ad.png",
-                        "https://cdn.imgchest.com/files/d392fb2482f2.png",
-                        "https://cdn.imgchest.com/files/6ae6781a419d.png",
-                        "https://cdn.imgchest.com/files/e57c4c4041f9.png"
-                  ]
-            }
-      },
-          "2.1": {
-            "title": "Chapter 2.1",
-            "volume": "",
-            "last_updated": "1781362141",
-            "groups": {
-                  "The Koi Pond & Creeg Scans": [
-                        "https://cdn.imgchest.com/files/f0ce56e7bb6f.png",
-                        "https://cdn.imgchest.com/files/83d3be4663d9.png",
-                        "https://cdn.imgchest.com/files/a8933d928a8d.png",
-                        "https://cdn.imgchest.com/files/4d92924daf8e.png",
-                        "https://cdn.imgchest.com/files/a21054c7943a.png",
-                        "https://cdn.imgchest.com/files/4db49199f37d.png",
-                        "https://cdn.imgchest.com/files/e97cb1a73631.png",
-                        "https://cdn.imgchest.com/files/b5e163de7dfd.png",
-                        "https://cdn.imgchest.com/files/3134a4371fa7.png",
-                        "https://cdn.imgchest.com/files/bc98599551cc.png",
-                        "https://cdn.imgchest.com/files/90b868cc6e2a.png",
-                        "https://cdn.imgchest.com/files/170921adedaf.png",
-                        "https://cdn.imgchest.com/files/50285ed45ec1.png",
-                        "https://cdn.imgchest.com/files/11925f114ef4.png",
-                        "https://cdn.imgchest.com/files/a2544313e333.png",
-                        "https://cdn.imgchest.com/files/524e59cf2335.png"
-                  ]
-            }
+    "1.2": {
+      "title": "Chapter 1.2",
+      "volume": "",
+      "last_updated": "1778861930",
+      "groups": {
+        "The Koi Pond & Creeg Scans": [
+          "https://cdn.imgchest.com/files/594f831e5c24.png",
+          "https://cdn.imgchest.com/files/be744dd7a1dd.png",
+          "https://cdn.imgchest.com/files/5227b39a169f.png",
+          "https://cdn.imgchest.com/files/205678f5f89d.png",
+          "https://cdn.imgchest.com/files/5dbe671d4d6e.png",
+          "https://cdn.imgchest.com/files/58a9d1702e54.png",
+          "https://cdn.imgchest.com/files/dff61c13f4e4.png",
+          "https://cdn.imgchest.com/files/77d780c9ea73.png",
+          "https://cdn.imgchest.com/files/e18de4395482.png",
+          "https://cdn.imgchest.com/files/20def9d0a677.png",
+          "https://cdn.imgchest.com/files/ec0be967a17d.png",
+          "https://cdn.imgchest.com/files/fbb7c2fc46b8.png",
+          "https://cdn.imgchest.com/files/b2c072229c82.png",
+          "https://cdn.imgchest.com/files/4524bd8cda30.png",
+          "https://cdn.imgchest.com/files/eedaae79555e.png",
+          "https://cdn.imgchest.com/files/f2cf96e05328.png",
+          "https://cdn.imgchest.com/files/dd4866337c84.png",
+          "https://cdn.imgchest.com/files/87d9f97b02a3.png",
+          "https://cdn.imgchest.com/files/b6de26ec6ed0.png",
+          "https://cdn.imgchest.com/files/f543e8c428ad.png",
+          "https://cdn.imgchest.com/files/d392fb2482f2.png",
+          "https://cdn.imgchest.com/files/6ae6781a419d.png",
+          "https://cdn.imgchest.com/files/e57c4c4041f9.png"
+        ]
       }
+    },
+    "2.1": {
+      "title": "Chapter 2.1",
+      "volume": "",
+      "last_updated": "1781362141",
+      "groups": {
+        "The Koi Pond & Creeg Scans": [
+          "https://cdn.imgchest.com/files/f0ce56e7bb6f.png",
+          "https://cdn.imgchest.com/files/83d3be4663d9.png",
+          "https://cdn.imgchest.com/files/a8933d928a8d.png",
+          "https://cdn.imgchest.com/files/4d92924daf8e.png",
+          "https://cdn.imgchest.com/files/a21054c7943a.png",
+          "https://cdn.imgchest.com/files/4db49199f37d.png",
+          "https://cdn.imgchest.com/files/e97cb1a73631.png",
+          "https://cdn.imgchest.com/files/b5e163de7dfd.png",
+          "https://cdn.imgchest.com/files/3134a4371fa7.png",
+          "https://cdn.imgchest.com/files/bc98599551cc.png",
+          "https://cdn.imgchest.com/files/90b868cc6e2a.png",
+          "https://cdn.imgchest.com/files/170921adedaf.png",
+          "https://cdn.imgchest.com/files/50285ed45ec1.png",
+          "https://cdn.imgchest.com/files/11925f114ef4.png",
+          "https://cdn.imgchest.com/files/a2544313e333.png",
+          "https://cdn.imgchest.com/files/524e59cf2335.png"
+        ]
+      }
+    },
+    "2.2": {
+      "title": "Chapter 2.2",
+      "volume": "",
+      "last_updated": "1785212673",
+      "groups": {
+        "The Koi Pond & Creeg Scans": "/proxy/api/imgchest/chapter/vj4j2ddx978"
+      }
+    }
   }
 }
