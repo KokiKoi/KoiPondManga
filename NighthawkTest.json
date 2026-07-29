@@ -140,7 +140,7 @@
       "groups": {
         "Morgan": "/proxy/api/imgchest/chapter/lqyeke5wqyd"
       }
-          },
+    },
     "16.5": {
       "title": "Volume 2 Bonus",
       "volume": "2",
@@ -227,6 +227,14 @@
       "last_updated": "1784678400",
       "groups": {
         "Morgan": "/proxy/api/imgchest/chapter/ej7mpxq597d"
+      }
+    },
+    "27": {
+      "title": "Rehab",
+      "volume": "",
+      "last_updated": "1785344378",
+      "groups": {
+        "Morgan": "/proxy/api/imgchest/chapter/ljyq3qlnk42"
       }
     }
   }
