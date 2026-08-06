@@ -3,7 +3,7 @@
   "description": "After approaching Gaia for a revenge match, Sikorsky is instead greeted with his new home...!?",
   "artist": "Toshiaki Hayashi",
   "author": "Keisuke Itagaki",
-  "cover": "https://cdn.imgchest.com/files/a1d3519c2447.jpg",
+  "cover": "https://cdn.imgchest.com/files/0c163971b734.jpg",
   "chapters": {
     "1": {
       "title": "Rematch",
@@ -1650,6 +1650,14 @@
       "last_updated": "1785734749",
       "groups": {
         "The Koi Pond": "/proxy/api/imgchest/chapter/qb4zvd5q3yj"
+      }
+    },
+    "53": {
+      "title": "X-Day",
+      "volume": "",
+      "last_updated": "1786054145",
+      "groups": {
+        "The Koi Pond": "/proxy/api/imgchest/chapter/qe4g6wmokyj"
       }
     }
   }
