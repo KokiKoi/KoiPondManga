@@ -3,7 +3,7 @@
   "description": "Translated by The Koi Pond\nAfter rigorously training for three years, the ordinary Saitama has gained immense strength which allows him to take out anyone and anything with just one punch. He decides to put his new skill to good use by becoming a hero. However, he quickly becomes bored with easily defeating monsters, and wants someone to give him a challenge to bring back the spark of being a hero. Upon bearing witness to Saitama's amazing power, Genos, a cyborg, is determined to become Saitama's apprentice. During this time, Saitama realizes he is neither getting the recognition that he deserves nor known by the people due to him not being a part of the Hero Association. Wanting to boost his reputation, Saitama decides to have Genos register with him, in exchange for taking him in as a pupil. Together, the two begin working their way up toward becoming true heroes, hoping to find strong enemies and earn respect in the process.",
   "artist": "Murata Yuusuke",
   "author": "ONE",
-  "cover": "https://cdn.imgchest.com/files/60ecee5131e8.png",
+  "cover": "https://cdn.imgchest.com/files/8810826942e4.jpg",
   "chapters": {
     "188.5": {
       "title": "The First Step of Courage",
@@ -381,11 +381,19 @@
       }
     },
     "236": {
-      "title": "Repaying Debts immediately",
+      "title": "Part-Time Bro 2",
       "volume": "",
       "last_updated": "1785357841",
       "groups": {
         "The Koi Pond": "/proxy/api/imgchest/chapter/a846bgrj2yx"
+      }
+    },
+    "237": {
+      "title": "Traces",
+      "volume": "",
+      "last_updated": "1786559970",
+      "groups": {
+        "The Koi Pond": "/proxy/api/imgchest/chapter/o24aeop8e7l"
       }
     }
   }
