@@ -1,16 +1,24 @@
 {
   "title": "Baki Talk!",
   "description": "Two high school girls re-read Grappler Baki at a leisurely pace as they analyse each volume in detail.",
-  "artist": "Naka Kento",
-  "author": "Itagaki Keisuke, Naka Kento",
-  "cover": "https://cdn.imgchest.com/files/0783c4333cde.png",
+  "artist": "",
+  "author": "Let loose... Chat and have fun, think and expand! It's Baki Talk!",
+  "cover": "https://mangadex.org/covers/12ffbeef-7bbf-4ac0-8c64-3317be8644bf/f81ac9ed-1359-47ca-9e8b-237cdb35fe59.png",
   "chapters": {
     "1": {
       "title": "Chatter 1",
-      "volume": "1",
+      "volume": "",
       "last_updated": "1789769138",
       "groups": {
         "TheSpinyBackTeam, The Koi Pond.": "/proxy/api/imgchest/chapter/n87w3jnwqyx"
+      }
+    },
+    "2": {
+      "title": "Chatter 2",
+      "volume": "",
+      "last_updated": "1790366324",
+      "groups": {
+        "TheSpinyBackTeam, The Koi Pond.": "/proxy/api/imgchest/chapter/m9yxwz8z37q"
       }
     }
   }
